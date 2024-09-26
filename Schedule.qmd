@@ -1,0 +1,21 @@
+---
+title: "Schedule"
+resources:
+  "schedule/Schedule.html"
+---
+
+<button onclick="window.location.href='schedule/Schedule.html';" style="padding: 10px 20px; font-size: 16px; background-color: #1a73e8; color: white; border: none; border-radius: 5px; cursor: pointer;">
+    Your 5 days Schedule
+</button>
+
+<br>
+
+## Dinner Banquet(Sep 30th)
+<figure>
+    <img src="schedule/banquet/1.png" alt="Banquet 1" width="85%"/>
+</figure>
+
+<figure>
+    <img src="schedule/banquet/2.png" alt="Banquet 2" width="85%"/>
+</figure>
+

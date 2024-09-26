@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "15th R.K.Cho Economics Prize"
+  favicon: "images/yonsei_logo.jpg"
+  navbar:
+    logo: "images/yonsei_logo.jpg"
+    right:
+      - href: index.qmd
+        text: Home
+      - Contacts.qmd
+      - href: Schedule.qmd
+        text: Schedule
+      - href: paper_work.qmd
+        text: Paperworks
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+
+
+
