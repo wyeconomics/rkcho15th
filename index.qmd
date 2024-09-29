@@ -8,5 +8,5 @@ It is truly a pleasure to welcome you to Korea. The entire school of Yonsei Univ
 
 
 <figure>
-    <img src="images/conference_photo.png" alt="Conference Schedule" width="85%"/>
+    <img src="images/conference_photo.png" alt="Conference Schedule" width="85%" class="center"/>
 </figure>

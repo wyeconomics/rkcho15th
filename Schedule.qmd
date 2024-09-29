@@ -10,12 +10,18 @@ resources:
 
 <br>
 
+
+## Prize Ceremony(Sep 30th)
+<!-- ![](schedule/prize_ceremony.pdf){width=580px height=600px} -->
+<embed src="schedule/prize_ceremony.pdf" width="580px" height="780px" class="center"/>
+<br>
+
 ## Dinner Banquet(Sep 30th)
 <figure>
-    <img src="schedule/banquet/1.png" alt="Banquet 1" width="85%"/>
+    <img src="schedule/banquet/1.png" alt="Banquet 1" width="85%" class="center"/>
 </figure>
 
 <figure>
-    <img src="schedule/banquet/2.png" alt="Banquet 2" width="85%"/>
+    <img src="schedule/banquet/2.png" alt="Banquet 2" width="85%" class="center"/>
 </figure>
 
