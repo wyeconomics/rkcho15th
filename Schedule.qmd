@@ -12,14 +12,15 @@ resources:
 
 
 ## Prize Ceremony(Sep 30th)
-<!-- ![](schedule/prize_ceremony.pdf){width=580px height=600px} -->
-<embed src="schedule/prize_ceremony.pdf" width="580px" height="780px" class="center"/>
-<br>
+<a href="https://wyeconomics.github.io/rkcho15th/schedule/prize_ceremony.pdf">
+  <img src="schedule/prize_ceremony.png" alt="Prize Ceremony" width="85%" class = "center"/>
+  <figcaption>Click the image for full pdf</figcaption>
+</a>
 
 ## Dinner Banquet(Sep 30th)
-<figure>
+<a href="https://wyeconomics.github.io/rkcho15th/schedule/banquet/banquet.pdf">
     <img src="schedule/banquet/1.png" alt="Banquet 1" width="85%" class="center"/>
-</figure>
+</a>
 
 <figure>
     <img src="schedule/banquet/2.png" alt="Banquet 2" width="85%" class="center"/>
