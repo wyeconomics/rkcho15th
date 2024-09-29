@@ -20,7 +20,7 @@ resources:
 <br>
 
 ## Dinner Banquet(Sep 30th)
-<a href="https://wyeconomics.github.io/rkcho15th/schedule/banquet.pdf">
+<a href="https://drive.google.com/file/d/1bXg8G5o14AQPeYb0_AGzSujyjOaNPXDR/view?usp=sharing">
     <img src="schedule/banquet/1.png" alt="Banquet 1" width="85%" class="center"/>
 </a>
 
